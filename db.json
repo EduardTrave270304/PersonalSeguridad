@@ -1,0 +1,152 @@
+[
+    {
+      "informacion_personal": {
+        "edad": 30,
+        "genero": "masculino"
+      },
+      "work_schedule": {
+        "tipo_contrato": "corto",
+        "horario": "Lunes, mañana, 9:00-13:00"
+      },
+      "experience_laboral": {
+        "referencias_laborales": "si",
+        "experiencia_vigilancia": "no"
+      },
+      "link": "https://servisegur.com.pe/wp-content/uploads/2023/05/Diseno-sin-titulo-26.png"
+    },
+    {
+      "informacion_personal": {
+        "edad": 25,
+        "genero": "femenino"
+      },
+      "work_schedule": {
+        "tipo_contrato": "largo",
+        "horario": "Martes, tarde, 14:00-18:00"
+      },
+      "experience_laboral": {
+        "referencias_laborales": "no",
+        "experiencia_vigilancia": "si"
+      },
+      "link": "https://blogs.iadb.org/sostenibilidad/wp-content/uploads/sites/26/2021/04/Blog-seguridad.jpg"
+    },
+    {
+      "informacion_personal": {
+        "edad": 35,
+        "genero": "masculino"
+      },
+      "work_schedule": {
+        "tipo_contrato": "corto",
+        "horario": "Miércoles, noche, 20:00-00:00"
+      },
+      "experience_laboral": {
+        "referencias_laborales": "si",
+        "experiencia_vigilancia": "no"
+      },
+      "link": "https://www.sucamec.gob.pe/web/wp-content/uploads/2020/06/vigilante-frente-computadora-sucamec-3portada.jpg"
+    },
+    {
+      "informacion_personal": {
+        "edad": 28,
+        "genero": "femenino"
+      },
+      "work_schedule": {
+        "tipo_contrato": "largo",
+        "horario": "Jueves, mañana, 8:00-12:00"
+      },
+      "experience_laboral": {
+        "referencias_laborales": "no",
+        "experiencia_vigilancia": "si"
+      },
+      "link": "https://media.licdn.com/dms/image/D5612AQHK2yEWRq8dJw/article-cover_image-shrink_720_1280/0/1691001806282?e=2147483647&v=beta&t=lvSGabFA-SQyVNtNPExNllkc5-ZCgsufFLnrosP0suA"
+    },
+    {
+      "informacion_personal": {
+        "edad": 32,
+        "genero": "masculino"
+      },
+      "work_schedule": {
+        "tipo_contrato": "corto",
+        "horario": "Viernes, tarde, 16:00-20:00"
+      },
+      "experience_laboral": {
+        "referencias_laborales": "si",
+        "experiencia_vigilancia": "no"
+      },
+      "link": "https://gruservperu.com/wp-content/uploads/2021/02/20210128_075136-1-scaled.jpg"
+    },
+    {
+      "informacion_personal": {
+        "edad": 27,
+        "genero": "femenino"
+      },
+      "work_schedule": {
+        "tipo_contrato": "largo",
+        "horario": "Sábado, mañana, 10:00-14:00"
+      },
+      "experience_laboral": {
+        "referencias_laborales": "no",
+        "experiencia_vigilancia": "si"
+      },
+      "link": "https://www.lanzadigital.com/wp-content/uploads/2022/05/Entrega_Reconocimientos_Seguridad_Privada_CD_11.jpg"
+    },
+    {
+      "informacion_personal": {
+        "edad": 40,
+        "genero": "masculino"
+      },
+      "work_schedule": {
+        "tipo_contrato": "corto",
+        "horario": "Domingo, noche, 21:00-01:00"
+      },
+      "experience_laboral": {
+        "referencias_laborales": "si",
+        "experiencia_vigilancia": "no"
+      },
+      "link": "https://lirp.cdn-website.com/c710b317/dms3rep/multi/opt/guarda-de-seguridad-perfecto-1920w.jpg"
+    },
+    {
+      "informacion_personal": {
+        "edad": 23,
+        "genero": "femenino"
+      },
+      "work_schedule": {
+        "tipo_contrato": "largo",
+        "horario": "Lunes, tarde, 15:00-19:00"
+      },
+      "experience_laboral": {
+        "referencias_laborales": "no",
+        "experiencia_vigilancia": "si"
+      },
+      "link": "https://www.pactoglobal-colombia.org/images/jch-optimize/ng/images_Blog_GuardaMujer.webp"
+    },
+    {
+      "informacion_personal": {
+        "edad": 29,
+        "genero": "masculino"
+      },
+      "work_schedule": {
+        "tipo_contrato": "corto",
+        "horario": "Martes, mañana, 9:00-13:00"
+      },
+      "experience_laboral": {
+        "referencias_laborales": "si",
+        "experiencia_vigilancia": "no"
+      },
+      "link": "https://cdn.www.gob.pe/uploads/document/file/4238196/IMG-20230309-WA0040.jpg.jpg"
+    },
+    {
+      "informacion_personal": {
+        "edad": 26,
+        "genero": "femenino"
+      },
+      "work_schedule": {
+        "tipo_contrato": "largo",
+        "horario": "Miércoles, tarde, 17:00-21:00"
+      },
+      "experience_laboral": {
+        "referencias_laborales": "no",
+        "experiencia_vigilancia": "si"
+      },
+      "link": "https://safeseguridad.mx/wp-content/uploads/2022/11/safe-seguridad-mujer-guardia-1024x683.jpeg"
+    }
+  ]
