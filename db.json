@@ -1,4 +1,5 @@
-[
+{
+    "formulario": [
     {
       "informacion_personal": {
         "edad": 30,
@@ -150,3 +151,4 @@
       "link": "https://safeseguridad.mx/wp-content/uploads/2022/11/safe-seguridad-mujer-guardia-1024x683.jpeg"
     }
   ]
+}
